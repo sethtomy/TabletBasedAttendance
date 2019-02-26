@@ -11,7 +11,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".StudentAttendanceActivity"></activity>
+        <activity android:name=".student.StudentSignatureActivity"></activity>
+        <activity android:name=".attendancesession.AttendanceSessionActivity" />
         <activity android:name=".LoginActivity" />
         <activity
             android:name=".SplashActivity"
