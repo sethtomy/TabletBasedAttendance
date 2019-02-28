@@ -8,7 +8,6 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Toast;
 
 import com.firebase.ui.firestore.FirestoreRecyclerAdapter;
 import com.firebase.ui.firestore.FirestoreRecyclerOptions;
@@ -22,7 +21,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import app.com.eattendance.AttendanceSessionItemClickListener;
 import app.com.eattendance.R;
 import app.com.eattendance.data.Student;
-import app.com.eattendance.student.StudentSignatureActivity;
 import app.com.eattendance.util.Constants;
 
 public class AttendanceSessionActivity extends AppCompatActivity implements AttendanceSessionItemClickListener {

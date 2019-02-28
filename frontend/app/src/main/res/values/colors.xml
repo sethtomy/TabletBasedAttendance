@@ -6,9 +6,12 @@
     <color name="colorOnPrimary">#FFFFFF</color>
     <color name="colorSecondary">#404E4D</color>
     <color name="colorSecondaryVariant">#313b3b</color>
+    <color name="colorTertiary">#d8d8d8</color>
+    <color name="colorTertiaryVariant">#bfbfbf</color>
     <color name="colorOnSecondary">#FFFFFF</color>
     <color name="colorWarning">#FDE74C</color>
     <color name="colorOnWarning">#80000000</color>
     <color name="colorSuccess">#9BC53D</color>
     <color name="colorError">#C3423F</color>
+    <color name="windowBgColor">#fafafa</color>
 </resources>

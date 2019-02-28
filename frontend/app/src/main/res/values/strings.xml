@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">eAttendance</string>
     <string name="title_activity_splash">SplashActivity</string>
+    <string name="unexpected_error">An unexpected error occurred!</string>
+    <string name="page_title_sign_attendance">Sign Attendance</string>
+    <string name="message_att_recorded">Attendance recorded. Thank You.</string>
+    <string name="error_sign_signature">Please sign your signature</string>
 </resources>
